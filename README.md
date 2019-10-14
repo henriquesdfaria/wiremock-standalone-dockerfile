@@ -17,3 +17,6 @@
 3. And finally run the container:
 
         > docker run -p 8080:8080 wiremock-server
+
+
+Now you can test http://localhost:8080/one
