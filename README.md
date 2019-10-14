@@ -1,7 +1,7 @@
 # wiremock-standalone-dockerfile
 
 
-Firstly clone this repository and go to his working space:
+Firstly clone this repository and go to its working space:
 
 > git clone https://github.com/henriquesdfaria/wiremock-standalone-dockerfile
 
