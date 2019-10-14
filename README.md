@@ -20,4 +20,4 @@
 
 ------------------
 
-Now you can test http://localhost:8080/one
+Now you can test http://localhost:8080/hello
