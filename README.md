@@ -4,16 +4,16 @@
 
 1. Firstly clone this repository and go to its working space:
 
-> git clone https://github.com/henriquesdfaria/wiremock-standalone-dockerfile
+        > git clone https://github.com/henriquesdfaria/wiremock-standalone-dockerfile
 
-> cd wiremock-standalone-dockerfile
+        > cd wiremock-standalone-dockerfile
 
 
 2. Then build the docker image:
 
-> docker build -t wiremock-server .
+        > docker build -t wiremock-server .
 
 
 3. And finally run the container:
 
-> docker run -p 8080:8080 wiremock-server
+        > docker run -p 8080:8080 wiremock-server
